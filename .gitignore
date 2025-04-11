@@ -3,3 +3,6 @@
 /build/
 recommendor_old.ipynb
 .env
+temp.py
+tfidf.ipynb
+recommendor.py
